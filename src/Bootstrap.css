@@ -1,0 +1,7 @@
+ funtcion custom-red-button {
+    background-color: red;
+    color: white; /* Set text color to contrast with the background */
+    /* You can add more styles here */
+  }
+
+  export default custom-red-button;
